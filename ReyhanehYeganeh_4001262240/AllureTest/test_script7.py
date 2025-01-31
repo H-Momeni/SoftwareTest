@@ -67,7 +67,7 @@ def test_checkout_navigation(setup_driver):
 @allure.feature("Email Validation")
 @allure.story("Verify email validation error messages")
 @pytest.mark.parametrize("email, expected_error", [
-    ("r", True),  # Empty email should show error
+    ("", True),  # Empty email should show error
     ("rh@gmail.com", False),  # Valid email should NOT show error
     ("rh", True),  # Invalid email should show error
     ("rh@gmail", True)  # Incomplete email should show error
