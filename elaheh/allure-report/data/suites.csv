@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25","test_shop_app_presence","tests","Thu Jan 30 22:47:45 IRST 2025","passed","Thu Jan 30 22:47:45 IRST 2025","","test_ladies_outerwear","",""
+"","12231","test_main_js_file","tests","Thu Jan 30 22:48:00 IRST 2025","passed","Thu Jan 30 22:48:12 IRST 2025","","test_ladies_outerwear","",""
+"","17","test_favicon_exists","tests","Thu Jan 30 22:47:31 IRST 2025","passed","Thu Jan 30 22:47:31 IRST 2025","","test_ladies_outerwear","",""
+"","31","test_meta_description","tests","Thu Jan 30 22:47:16 IRST 2025","passed","Thu Jan 30 22:47:16 IRST 2025","","test_ladies_outerwear","",""
+"","0","test_page_title","tests","Thu Jan 30 22:47:01 IRST 2025","passed","Thu Jan 30 22:47:01 IRST 2025","","test_ladies_outerwear","",""
+"","24","test_performance_mark","tests","Thu Jan 30 22:48:29 IRST 2025","passed","Thu Jan 30 22:48:29 IRST 2025","","test_ladies_outerwear","",""

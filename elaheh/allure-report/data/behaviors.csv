@@ -1,0 +1,7 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Shop App Element","1","0","Verify shop-app element is present and visible","0"
+"0","","0","JavaScript Files","1","0","Check if the main JavaScript file is loaded","0"
+"0","","0","Favicon","1","0","Check if the favicon is present","0"
+"0","","0","Meta Tags","1","0","Check if the meta description is present","0"
+"0","","0","Page Title","1","0","Check if the page title is correct","0"
+"0","","0","Performance Metrics","1","0","Check if performance mark is executed","0"
