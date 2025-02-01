@@ -12,3 +12,4 @@ https://shop.polymer-project.org/detail/mens_tshirts/Inbox+-+Subtle+Actions+T-Sh
 
 توضیحات اضافه: همه ی آزمایه ها به درستی اجرا شدند به جز ازمایه  تعیین تعداد quantity به 10 . زیرا این مقدار در رنج value های تعیین شده قرار نداشت و fail شد
 رنج value ها بین 1- تا 5 قرار داشت
+https://drive.google.com/file/d/162qnT0-_P-rLfkKBzhUh9iYabazQjxp_/view?usp=drive_link
